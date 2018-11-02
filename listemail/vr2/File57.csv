@@ -1,0 +1,3 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jMzAYa,"2016-06-08 19:03:35",VS20166801534575,4,102.41,SHIPPED,58,0,37.96,"Juanita Jaquez",jjbibleroy5@gmail.com,US,VSID_Ny6z6X,95.96,"I Squat to Burn off the Crazy",VSID_NYE9z2,VSID_jGqoLN,viralstyle.com,0
+VSID_NneZyr,"2016-06-08 19:11:57",VS20166801534596,2,53.43,SHIPPED,29,0,18.98,"Juanita Jaquez",jjbibleroy5@gmail.com,US,VSID_jGYOmL,47.98,"I Squat to Burn off the Crazy",VSID_NYE9z2,VSID_jGqoLN,viralstyle.com,0

@@ -1,0 +1,23 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_NkLDBl,"2016-07-15 03:27:23",VS201671501651007,1,24.94,SHIPPED,17.25,0,2.74,"Mykelallen Haygood",theetnie@gmail.com,US,VSID_j5o379,19.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_dKv4kZ,"2016-07-15 16:26:18",VS201671501652420,1,26.34,SHIPPED,17.25,0,2.74,"Ryan Fagerquist",ryanfgrqst9@gmail.com,US,VSID_NZaYAW,19.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NZLaDk,"2016-07-15 23:46:43",VS201671501653956,1,24.94,SHIPPED,17.25,0,2.74,"Edward Muniz",edd087@gmail.com,US,VSID_j5okmE,19.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NV2VoJ,"2016-07-16 02:07:50",VS201671601654536,1,31.94,SHIPPED,19.25,0,7.74,"Kevin Dunlap",kdunlaptx@gmail.com,US,VSID_dAJqO8,26.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NxwYer,"2016-07-16 03:03:56",VS201671601654758,2,55.43,SHIPPED,34.5,0,15.48,"Donaven Rose",donaven.rose123@gmail.com,US,VSID_gWzb7w,49.98,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_j3aa55,"2016-07-16 14:51:02",VS201671601656045,1,29.94,SHIPPED,17.25,0,7.74,"nestor alicea",saphireness@gmail.com,US,VSID_j3Knr0,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_gb7776,"2016-07-16 15:19:18",VS201671601656143,1,32.94,SHIPPED,20.75,0,7.24,"Britney McRae",lunareclipse316@yahoo.com,US,VSID_gLzrzm,27.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_dRZlv6,"2016-07-17 02:50:08",VS201671701658617,1,30.94,SHIPPED,18.75,0,7.24,"Alex Thomis",direbear65@gmail.com,US,VSID_dAJro2,25.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_N1612L,"2016-07-17 02:59:11",VS201671701658657,1,31.69,SHIPPED,17.25,0,7.74,"Blake Alexander",vallistr@gmail.com,US,VSID_jJw3YA,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_dRZ99y,"2016-07-17 16:41:02",VS201671701660117,1,29.94,SHIPPED,17.25,0,7.74,"Dylan Prokop",pdylan1619@gmail.com,US,VSID_dwrKmO,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_jeLoZ6,"2016-07-17 20:11:40",VS201671701660823,1,29.94,SHIPPED,17.25,0,7.74,"Grant Hairston",Elcaminosrtrucks@yahoo.com,US,VSID_gBmyQV,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_gBErWO,"2016-07-17 21:34:03",VS201671701661111,1,29.94,SHIPPED,17.25,0,7.74,"Tatiana Brobbel",tati70380@yahoo.com,US,VSID_dKzPRA,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_j8vRok,"2016-07-18 00:45:45",VS201671801661792,1,29.94,SHIPPED,17.25,0,7.74,"John Hines",john_hines55@hotmail.com,US,VSID_gBm5RD,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_gaLAv5,"2016-07-18 03:56:45",VS201671801662444,1,29.94,SHIPPED,17.25,0,7.74,"Chris Woodcock",blackhawk2845@gmail.com,US,VSID_j3K2EG,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_d43lrX,"2016-07-19 01:21:27",VS201671901665171,1,29.94,SHIPPED,17.25,0,7.74,"Michael Flanders",HebiUchihaSasuke@live.com,US,VSID_dAxb78,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NV2n6Z,"2016-07-19 01:24:56",VS201671901665180,1,29.94,SHIPPED,17.25,0,7.74,"Tabitha Bolling",tbolling@missouriwestern.edu,US,VSID_dvMelo,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NPpWVq,"2016-07-19 01:38:27",VS201671901665218,1,29.94,SHIPPED,17.25,0,7.74,"Robert Elliott",coolman172@hotmail.com,US,VSID_NzMPJz,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_N16qGm,"2016-07-19 03:06:48",VS201671901665513,1,31.94,SHIPPED,19.25,0,7.74,"Saul Soto",saulsoto49@gmail.com,US,VSID_dvMe8x,26.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NxwPa4,"2016-07-19 03:23:07",VS201671901665558,1,29.94,SHIPPED,17.25,0,7.74,"Brandon Anthony",brandon.anthony.channel17@gmail.com,US,VSID_d996an,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_dwMz8q,"2016-07-19 21:57:44",VS201671901667540,1,29.94,SHIPPED,17.25,0,7.74,"Andrew Pappas",andrew_pappas2003@yahoo.com,US,VSID_jMkx0M,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_NPpvpD,"2016-07-19 23:56:40",VS201671901667762,1,30.94,SHIPPED,18.75,0,7.24,"Rachel Versluys",zdogtrainer18@yahoo.com,US,VSID_dAxGP0,25.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0
+VSID_j8vE9o,"2016-07-20 20:08:05",VS201672001669948,1,29.94,SHIPPED,17.25,0,7.74,"Justin Prentoce",combatninja99z@aim.com,US,VSID_NQBlWZ,24.99,"**Special Edition **",VSID_j5VxG1,VSID_KN22zN,viralstyle.com,0

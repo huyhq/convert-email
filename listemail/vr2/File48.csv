@@ -1,0 +1,10 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jqrv3o,"2016-06-27 01:04:20",VS201662701593363,1,30.94,SHIPPED,15,0,10.99,"Alfred Healey",ahbigal32@aol.com,US,VSID_jOz1Y4,25.99,"VIETNAM VETS WELCOME",VSID_j5VPyD,VSID_jGqoLN,viralstyle.com,0
+VSID_dKz1LA,"2016-06-29 15:30:49",VS201662901599720,1,31.94,SHIPPED,16,0,10.99,"Donald Scheipe",dscheipe@verison.net,US,VSID_gakrO0,26.99,"VIETNAM VETS WELCOME",VSID_j5VPyD,VSID_jGqoLN,viralstyle.com,0
+VSID_NZaoL9,"2016-06-30 23:33:44",VS201663001603856,1,28.94,SHIPPED,13,0,10.99,"randy nelson",randy64716@yahoo.com,US,VSID_dRzBq9,23.99,"VIETNAM VETS WELCOME",VSID_NPxy6e,VSID_jGqoLN,viralstyle.com,0
+VSID_NYLDJ7,"2016-07-12 23:06:54",VS201671201643829,1,28.94,SHIPPED,13,0,10.99,"Phil King",philktn@outlook.com,US,VSID_N1KO6R,23.99,"VIETNAM VETS WELCOME",VSID_gaykVJ,VSID_jGqoLN,viralstyle.com,0
+VSID_gWOX4a,"2016-08-04 18:58:55",VS20168401719446,1,28.94,SHIPPED,13,0,10.99,"Peter Baumann",pub53scorer@aol.com,US,VSID_NYLAJR,23.99,"VIETNAM VETS WELCOME",VSID_Nl85Rr,VSID_jGqoLN,viralstyle.com,0
+VSID_d93JR0,"2016-08-09 16:07:19",VS20168901731350,1,28.94,SHIPPED,13,0,10.99,"Harry Passaro",butchpassaro@spcglobal.net,US,VSID_dKvpWA,23.99,"VIETNAM VETS WELCOME",VSID_Nl85Rr,VSID_jGqoLN,viralstyle.com,0
+VSID_gWOBJJ,"2016-08-15 16:41:21",VS201681501746046,1,28.94,SHIPPED,13,0,10.99,"john colarullo",roeandjohn@gmail.com,US,VSID_NQB7Jn,23.99,"VIETNAM VETS WELCOME",VSID_gay2Ex,VSID_jGqoLN,viralstyle.com,0
+VSID_ga0aOq,"2016-08-23 14:25:16",VS201682301765744,1,28.94,SHIPPED,13,0,10.99,"Levert Mills",levertmills@yahoo.com,US,VSID_gWOnJa,23.99,"VIETNAM VETS WELCOME",VSID_N1yAQz,VSID_jGqoLN,viralstyle.com,0
+VSID_doKLwB,"2016-11-11 23:07:48",VS2016111101964232,1,30.94,SHIPPED,11.75,0,14.24,"John Mustian",johntmsr@aol.com,US,VSID_jODQRL,25.99,"VIETNAM VETS WELCOME",VSID_Nl8GQQ,VSID_jGqoLN,viralstyle.com,0

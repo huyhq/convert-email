@@ -1,0 +1,9 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_d95qLQ,"2016-12-28 23:20:14",VS2016122802096894,1,29.94,SHIPPED,10.8,0,14.19,"Sharon McDonald",bacnblk@aol.com,US,VSID_NyQvGE,24.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_Nkvke6,"2016-12-29 20:47:40",VS2016122902099095,1,29.94,SHIPPED,10.8,0,14.19,"Jamie Cole",cjamiecole@gmail.com,US,VSID_jOBO41,24.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_NyqOzK,"2016-12-30 00:52:10",VS2016123002099753,1,33.94,SHIPPED,12,0,16.99,"Lindy Southern",southern_cctrn@yahoo.com,US,VSID_gLnmGp,28.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_NZZPxA,"2016-12-30 18:07:09",VS2016123002101512,1,33.94,CANCEL,14.5,0,14.49,"MICHELLE MOORE",mmoore3180@gmail.com,US,VSID_jJ916k,28.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_Nkv67Y,"2016-12-31 20:41:18",VS2016123102105195,1,29.94,SHIPPED,10.8,0,14.19,"Catherine Reid",creid1124@yahoo.com,US,VSID_NlRexw,24.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_dKbDqB,"2016-12-31 21:19:16",VS2016123102105320,1,29.94,SHIPPED,10.8,0,14.19,"JERRY THOMAS",dthomas@comporium.net,US,VSID_dwQ0Al,24.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_NZZ1ok,"2017-01-01 01:52:00",VS20171102106056,1,29.94,SHIPPED,10.8,0,14.19,"KIMBERLY HATFIELD",redneckwoman29010@gmail.com,US,VSID_NzQX31,24.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0
+VSID_NZZolG,"2017-01-03 19:29:11",VS20171302115156,1,29.94,SHIPPED,10.8,0,14.19,"Sabrina Davis",pepsicoolady10@yahoo.com,US,VSID_gWyAV6,24.99,"**** LIMITED EDITION ****",VSID_dARLnG,VSID_KN22zN,viralstyle.com,0

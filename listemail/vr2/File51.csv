@@ -1,0 +1,6 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jJ8Dqr,"2016-07-23 21:37:37",VS201672301680426,5,101.9,SHIPPED,33.75,0,61.2,"Richard Elias",ymbarnif0311@gmail.com,US,VSID_NYLXXa,94.95,"VIETNAM VETERANS MUG 2",VSID_d4Ml8E,VSID_jGqoLN,viralstyle.com,0
+VSID_gBpY9O,"2016-08-08 17:15:53",VS20168801729399,1,23.94,SHIPPED,6.75,0,12.24,"Michael Baker",Txnks@msn.com,US,VSID_j3aDVq,18.99,"VIETNAM VETERANS MUG 2",VSID_jEAooA,VSID_jGqoLN,viralstyle.com,0
+VSID_N113ER,"2016-08-12 11:38:00",VS201681201737557,1,23.94,SHIPPED,6.75,0,12.24,"william bennett",billbennett2@yahoo.com,US,VSID_d43XPk,18.99,"VIETNAM VETERANS MUG 2",VSID_jEAooA,VSID_jGqoLN,viralstyle.com,0
+VSID_je00np,"2016-08-14 17:19:25",VS201681401743567,1,23.94,SHIPPED,6.75,0,12.24,"David Jeffries",davidjeffries56@yahoo.com,US,VSID_gL9E5b,18.99,"VIETNAM VETERANS MUG 2",VSID_Nnl2R3,VSID_jGqoLN,viralstyle.com,0
+VSID_Nz8Y6l,"2016-10-04 22:03:17",VS201610401872272,1,23.94,SHIPPED,6.75,0,12.24,"Leslie Griffus",plowmanjoe1@yahoo.com,US,VSID_gLabD5,18.99,"VIETNAM VETERANS MUG 2",VSID_NYJz2p,VSID_jGqoLN,viralstyle.com,0

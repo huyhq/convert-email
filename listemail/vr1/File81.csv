@@ -1,0 +1,6 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_dAD8Z8,"2017-10-05 19:33:24",VS201710502714442,1,30.9,SHIPPED,10.5,0,15.45,"Patrick C. Rowlen",patrowlen@gmail.com,US,VSID_gW0EBa,25.95,"**LIMITED EDITION**",VSID_gLpm4K,VSID_KN22zN,viralstyle.com,0
+VSID_Np8AZb,"2017-10-06 01:33:26",VS201710602715510,1,30.9,SHIPPED,10.5,0,15.45,"David Harmon",harmon5152@aol.com,US,VSID_dvJJox,25.95,"**LIMITED EDITION**",VSID_gLpm4K,VSID_KN22zN,viralstyle.com,0
+VSID_j3Dv7q,"2017-10-06 13:53:06",VS201710602716645,2,63.12,SHIPPED,23,0,30.9,"victor figueroa",toyotary69@yahoo.com,US,VSID_N0QQeK,53.9,"**LIMITED EDITION**",VSID_gLpm4K,VSID_KN22zN,viralstyle.com,0
+VSID_N1D0YE,"2017-10-08 14:41:10",VS201710802722213,2,66.35,SHIPPED,22.2,0,36.7,"Roxanne Pitta",roxannepitta@hotmail.com,US,VSID_Nl2Vby,58.9,"**LIMITED EDITION**",VSID_gLpm4K,VSID_KN22zN,viralstyle.com,0
+VSID_jemWQq,"2017-10-08 21:19:37",VS201710802723123,1,28.9,SHIPPED,8.5,0,15.45,"Myrna Gutierrez",noemyr1@comcast.net,US,VSID_N0Q00L,23.95,"**LIMITED EDITION**",VSID_gLpm4K,VSID_KN22zN,viralstyle.com,0

@@ -1,0 +1,11 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j5exBn,"2016-12-24 01:42:26",VS2016122402087603,1,29.94,SHIPPED,10.8,0,14.19,"Diann Jensen",dgodtel@live.com,US,VSID_dRxvJa,24.99,"**** LIMITED EDITION ****",VSID_drBpQ7,VSID_KN22zN,viralstyle.com,0
+VSID_dv2Q3E,"2016-12-24 23:22:01",VS2016122402089305,1,30.94,SHIPPED,11.25,0,14.74,"Wendy Baeckel",wabpooh@aol.com,US,VSID_ga9aOJ,25.99,"**** LIMITED EDITION ****",VSID_drBpQ7,VSID_KN22zN,viralstyle.com,0
+VSID_gLlnVp,"2016-12-25 01:31:07",VS2016122502089481,1,28.94,SHIPPED,9.75,0,14.24,"Soledad Rodriguez",chiquita0428@gmail.com,US,VSID_NZlGJX,23.99,"**** LIMITED EDITION ****",VSID_drBpQ7,VSID_KN22zN,viralstyle.com,0
+VSID_N2KvO7,"2016-12-25 02:31:53",VS2016122502089560,1,30.94,SHIPPED,11.75,0,14.24,"Virginia Scholl",ginnyscholl1952@gmail.com,US,VSID_N05EBr,25.99,"**** LIMITED EDITION ****",VSID_drBpQ7,VSID_KN22zN,viralstyle.com,0
+VSID_Npppb3,"2016-12-26 01:45:07",VS2016122602091154,1,50.94,SHIPPED,21.75,0,21.24,"Max Mohler",max_mohler@yahoo.com,US,VSID_gLnBq1,42.99,"**** LIMITED EDITION ****",VSID_drBpQ7,VSID_KN22zN,viralstyle.com,0
+VSID_NyqqEX,"2016-12-26 03:10:56",VS2016122602091309,1,47.94,SHIPPED,18.75,0,21.24,"Brad Hoff",brhobby@gmail.com,US,VSID_dAK7PQ,39.99,"**** LIMITED EDITION ****",VSID_drBpQ7,VSID_KN22zN,viralstyle.com,0
+VSID_NPWWkP,"2016-12-26 23:21:30",VS2016122602092718,2,59.43,SHIPPED,25.5,0,28.48,"Sarah Strong",SarahStrong@Centurylink.com,US,VSID_NzQVGP,53.98,"**** LIMITED EDITION ****",VSID_gBR1oV,VSID_KN22zN,viralstyle.com,0
+VSID_dwRzOR,"2016-12-27 00:28:38",VS2016122702092840,1,33.94,SHIPPED,14.5,0,14.49,"Rebecca Jorgensen",jorgensenbecky@yahoo.com,US,VSID_gbkVW6,28.99,"**** LIMITED EDITION ****",VSID_gBR1oV,VSID_KN22zN,viralstyle.com,0
+VSID_dv2zJB,"2016-12-27 19:04:59",VS2016122702094149,1,28.94,SHIPPED,9.75,0,14.24,"Amanda Cashman",acashman081@yahoo.com,US,VSID_NpO2Db,23.99,"**** LIMITED EDITION ****",VSID_gBR1oV,VSID_KN22zN,viralstyle.com,0
+VSID_dKbDGb,"2016-12-31 18:12:45",VS2016123102104764,2,59.43,SHIPPED,25,0,28.98,"LaDonna Rader",ladonnarader@yahoo.com,US,VSID_Nk2lxM,53.98,"**** LIMITED EDITION ****",VSID_gW41zG,VSID_KN22zN,viralstyle.com,0

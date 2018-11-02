@@ -1,0 +1,6 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jJLa1x,"2016-04-18 19:52:39",VS201641801370426,2,45.43,SHIPPED,29,0,10.98,"Edgar Makowsky",emakowsky@yahoo.com,US,VSID_gmYZq0,39.98,"GYM Motivation T-Shirt!",VSID_dAGwP0,VSID_jGqoLN,viralstyle.com,0
+VSID_Np5lnK,"2016-04-19 15:59:36",VS201641901372654,1,27.94,SHIPPED,14.5,0,8.49,"Carlton Jordan",cJordan28@hotmail.com,US,VSID_jqYVly,22.99,"GYM Motivation T-Shirt!",VSID_dAGwP0,VSID_jGqoLN,viralstyle.com,0
+VSID_NyZn45,"2016-04-23 18:25:10",VS201642301386153,2,53.43,SHIPPED,29,0,18.98,"Claudio M. Garza",ozzyragmanbats@yahoo.com,US,VSID_jJ5ME0,47.98,"GYM Motivation T-Shirt!",VSID_dAGwP0,VSID_jGqoLN,viralstyle.com,0
+VSID_N1e6Rm,"2016-04-28 16:10:58",VS201642801401557,1,20.99,SHIPPED,14.5,1,6.49,"Carlton Brantley ",Carltonbrantley@gmail.com,US,VSID_dXAQ5W,20.99,"GYM Motivation T-Shirt!",VSID_NVKyVJ,VSID_jGqoLN,viralstyle.com,0
+VSID_jeLb6q,"2016-07-21 19:17:58",VS201672101672667,1,28.94,SHIPPED,14.5,0,9.49,"Rudy Hubina",rudy.hubina@gmail.com,US,VSID_jeLR7K,23.99,"GYM Motivation T-Shirt!",VSID_j8LVXx,VSID_jGqoLN,viralstyle.com,0

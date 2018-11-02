@@ -1,0 +1,6 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_Np5Gr3,"2016-04-17 19:26:11",VS201641701367354,1,24.94,SHIPPED,13,0,6.99,"Ingrull Sherman",ingrullhiga@gmail.com,US,VSID_drXlYo,19.99,"In the GYM, I'm not here to talk!!",VSID_gLZYV7,VSID_jGqoLN,viralstyle.com,0
+VSID_j356Y5,"2016-05-19 16:23:24",VS201651901469089,1,17.99,SHIPPED,13,1,4.99,"Robert L Woodward",rlwoodward@aol.com,US,VSID_j8o8lk,22.99,"In the GYM, I'm not here to talk!!",VSID_gaOvRP,VSID_jGqoLN,viralstyle.com,0
+VSID_Nl7b75,"2016-05-21 03:22:51",VS201652101474066,1,34.99,SHIPPED,22,1,12.99,"Deon Pavey",dlpavey@outlook.com,US,VSID_dXA5eo,34.99,"In the GYM, I'm not here to talk!!",VSID_gaOvRP,VSID_jGqoLN,viralstyle.com,0
+VSID_dA49m2,"2016-05-21 22:52:16",VS201652101476386,1,37.99,SHIPPED,25,1,12.99,"Carlton Brantley ",Carltonbrantley@gmail.com,US,VSID_N2ek8e,37.99,"In the GYM, I'm not here to talk!!",VSID_gaOvRP,VSID_jGqoLN,viralstyle.com,0
+VSID_g7baw2,"2016-06-20 22:50:58",VS201662001575838,1,27.94,SHIPPED,13,0,9.99,"Oumar K Doxen",blkmrmom@hotmail.com,US,VSID_jqreny,22.99,"In the GYM, I'm not here to talk!!",VSID_NnlZRw,VSID_jGqoLN,viralstyle.com,0

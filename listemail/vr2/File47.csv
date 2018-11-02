@@ -1,0 +1,10 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j86PLe,"2016-06-24 12:41:27",VS201662401585704,1,30.94,SHIPPED,15,0,10.99,"Ken Knotts",kenknotts91@gmail.com,US,VSID_NneXw4,25.99,"OLD MAN VIETNAM VET",VSID_NQlPL9,VSID_jGqoLN,viralstyle.com,0
+VSID_gWz0ow,"2016-06-26 20:00:03",VS201662601592602,1,30.62,SHIPPED,13,0,10.99,"Clifford Randleman",f350fordguy@gmail.com,US,VSID_NQz6o4,23.99,"OLD MAN VIETNAM VET",VSID_NQlPL9,VSID_jGqoLN,viralstyle.com,0
+VSID_d4VDrk,"2016-06-27 01:57:15",VS201662701593527,1,28.94,SHIPPED,13,0,10.99,"Frederick R Moses",kpjcrm5@aol.com,US,VSID_NpJ39b,23.99,"OLD MAN VIETNAM VET",VSID_NQlPL9,VSID_jGqoLN,viralstyle.com,0
+VSID_gLzBvb,"2016-06-28 02:05:36",VS201662801595937,1,30.94,SHIPPED,15,0,10.99,"Sheldon Crawford",brownsfan1948@hotmail.com,US,VSID_NkRwrG,25.99,"OLD MAN VIETNAM VET",VSID_NQlPL9,VSID_jGqoLN,viralstyle.com,0
+VSID_NneVKw,"2016-06-28 20:31:05",VS201662801597652,1,28.94,SHIPPED,13,0,10.99,"Frederick R Moses",kpjcrm5@aol.com,US,VSID_dXzbrR,23.99,"OLD MAN VIETNAM VET",VSID_NQlPL9,VSID_jGqoLN,viralstyle.com,0
+VSID_N06PoK,"2016-07-19 02:42:24",VS201671901665434,1,30.94,SHIPPED,15,0,10.99,"Terry Ireland",terryireland1950@gmail.com,US,VSID_drwWYo,25.99,"OLD MAN VIETNAM VET",VSID_dRLBPy,VSID_jGqoLN,viralstyle.com,0
+VSID_dDRBDO,"2016-07-29 22:46:21",VS201672901701179,1,28.94,SHIPPED,13,0,10.99,"LAWRENCE GADDIE",weeze1550@gmail.com,US,VSID_dKvzLm,23.99,"OLD MAN VIETNAM VET",VSID_Nxp63Y,VSID_jGqoLN,viralstyle.com,0
+VSID_ga0Q0J,"2016-08-05 18:16:10",VS20168501722000,1,20.99,SHIPPED,15,1,5.99,"Karla Cox",kayakerk@yahoo.com,US,VSID_jJ8YQA,20.99,"OLD MAN VIETNAM VET",VSID_Nxp63Y,VSID_jGqoLN,viralstyle.com,0
+VSID_gm0XMe,"2016-08-07 01:44:16",VS20168701725824,1,30.94,SHIPPED,15,0,10.99,"William Jakub",wjakub@comcast.net,US,VSID_NzMaEP,25.99,"OLD MAN VIETNAM VET",VSID_Np9VeK,VSID_jGqoLN,viralstyle.com,0

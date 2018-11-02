@@ -1,0 +1,7 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_gmqo6e,"2016-06-20 18:24:22",VS201662001575168,1,31.94,SHIPPED,13,0,10.99,"Vincent Charland",blinkyon360@gmail.com,CA,VSID_gLzKG3,23.99,"**Special Edition **",VSID_d9EpJQ,VSID_KN22zN,viralstyle.com,0
+VSID_jGmolq,"2016-06-24 16:43:59",VS201662401586325,2,53.43,SHIPPED,26,0,21.98,"Alexander Mendonca",alexander.mendonca95@gmail.com,US,VSID_gLzJyp,47.98,"**Special Edition **",VSID_d9EpJQ,VSID_KN22zN,viralstyle.com,0
+VSID_dwr46D,"2016-06-26 22:58:24",VS201662601593040,1,28.94,SHIPPED,13,0,10.99,"Shondra Thomas",babyshana15@aol.com,US,VSID_jeB5Z9,23.99,"**Special Edition **",VSID_d9EpJQ,VSID_KN22zN,viralstyle.com,0
+VSID_jEm7qK,"2016-06-29 00:49:25",VS201662901598315,1,28.94,SHIPPED,13,0,10.99,"Jacob Sharp",jdsharp226@gmail.com,US,VSID_NlLPJL,23.99,"**Special Edition **",VSID_NQlQEn,VSID_KN22zN,viralstyle.com,0
+VSID_N0LJn4,"2016-06-30 19:26:37",VS201663001603234,1,28.94,SHIPPED,13,0,10.99,"Elias Buxton",elias.buxton1@gmail.com,US,VSID_j862VW,23.99,"**Special Edition **",VSID_NQlQEn,VSID_KN22zN,viralstyle.com,0
+VSID_NYLy0k,"2016-07-12 02:18:00",VS201671201641129,2,53.43,SHIPPED,26,0,21.98,"Chris Elbin",aether123412@outlook.com,US,VSID_NyLXwX,47.98,"**Special Edition **",VSID_dvXKKY,VSID_KN22zN,viralstyle.com,0

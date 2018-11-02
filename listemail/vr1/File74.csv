@@ -1,0 +1,5 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_gmxD90,"2015-11-28 19:23:26",VS2015112800900568,2,58.93,SHIPPED,29,0,17.98,"indra Schrewe",I.Schrewe@web.de,DE,VSID_jE2xLK,46.98,"***LIMITIERTE AUSGABE***",VSID_j6Ywq7,VSID_KN22zN,viralstyle.com,0
+VSID_doaPmW,"2015-11-29 15:15:33",VS2015112900902676,1,34.94,SHIPPED,15,0,8.99,"Wilma Fröhlich",wilma_froehlich@web.de,DE,VSID_NQVbr4,23.99,"***LIMITIERTE AUSGABE***",VSID_j6Ywq7,VSID_KN22zN,viralstyle.com,0
+VSID_jOEZXJ,"2015-11-29 21:53:09",VS2015112900903721,1,32.94,SHIPPED,13,0,8.99,"Nicole Bösch",nicoleboesch84@gmail.com,DE,VSID_dA2KY9,21.99,"***LIMITIERTE AUSGABE***",VSID_j6Ywq7,VSID_KN22zN,viralstyle.com,0
+VSID_NkeMPw,"2015-11-30 16:58:43",VS2015113000905751,3,96.92,SHIPPED,45.75,0,38.22,"Antonio Mißbach",Toni.m91@web.de,DE,VSID_j5Aemk,83.97,"***LIMITIERTE AUSGABE***",VSID_j6Ywq7,VSID_KN22zN,viralstyle.com,0

@@ -1,0 +1,9 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j83KGk,"2016-09-11 02:23:40",VS201691101817948,1,50.94,SHIPPED,25,0,17.99,"Arnold Draper",arnolddraper10@gmail.com,US,VSID_g7qDP4,42.99,"VIETNAM VETERAN-THE LEGEND",VSID_NZKXYM,VSID_jGqoLN,viralstyle.com,0
+VSID_dro7lG,"2016-09-13 03:11:35",VS201691301823133,1,33.94,SHIPPED,16.5,0,12.49,"Michael Slyck",Bravo16India@rochester.rr.com,US,VSID_NPO7DD,28.99,"VIETNAM VETERAN-THE LEGEND",VSID_NZKXYM,VSID_jGqoLN,viralstyle.com,0
+VSID_NkoRJA,"2016-09-14 02:36:06",VS201691401825295,1,32.94,SHIPPED,15.5,0,12.49,"David Scaia",dscaia420@gmail.com,US,VSID_jMOE7k,27.99,"VIETNAM VETERAN-THE LEGEND",VSID_NZKXYM,VSID_jGqoLN,viralstyle.com,0
+VSID_dooMb2,"2016-09-14 13:17:30",VS201691401825876,1,28.94,SHIPPED,13,0,10.99,"Donald Stanton",dstanton@centurytel.net,US,VSID_NYenEQ,23.99,"VIETNAM VETERAN-THE LEGEND",VSID_NZKXYM,VSID_jGqoLN,viralstyle.com,0
+VSID_j3RaKG,"2016-09-14 18:02:32",VS201691401826445,1,47.94,SHIPPED,22,0,17.99,"John Baker",johnb5togo@yahoo.com,US,VSID_Np0Mv1,39.99,"VIETNAM VETERAN-THE LEGEND",VSID_NZKXYM,VSID_jGqoLN,viralstyle.com,0
+VSID_N1E8ER,"2016-09-18 03:32:05",VS201691801834357,1,47.94,SHIPPED,22,0,17.99,"Charles Briley",mroldgrouch@yahoo.comlop,US,VSID_gBpK6E,39.99,"VIETNAM VETERAN-THE LEGEND",VSID_Nkq7vG,VSID_jGqoLN,viralstyle.com,0
+VSID_NP8WBq,"2016-09-18 22:57:27",VS201691801835762,1,47.94,SHIPPED,22,0,17.99,"TJ (ted) Coakley",tedc818@hotmail.com,US,VSID_dXL555,39.99,"VIETNAM VETERAN-THE LEGEND",VSID_Nkq7vG,VSID_jGqoLN,viralstyle.com,0
+VSID_g7avYb,"2016-09-19 20:12:29",VS201691901837282,1,33.94,SHIPPED,16.5,0,12.49,"Judith Salzwedel",judithsalzwedel@vicvill.com,US,VSID_Nn04pZ,28.99,"VIETNAM VETERAN-THE LEGEND",VSID_Nkq7vG,VSID_jGqoLN,viralstyle.com,0

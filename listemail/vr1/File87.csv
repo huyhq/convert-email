@@ -1,0 +1,7 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_dr0nEV,"2016-08-01 10:17:41",VS20168101709433,1,31.94,SHIPPED,16,0,10.99,"David Bongiorno",alexkussatz@yahoo.com,US,VSID_dDRreR,26.99,"** D.VA STYLE **",VSID_j5VzyD,VSID_KN22zN,viralstyle.com,0
+VSID_gLO2e1,"2016-08-06 19:59:19",VS20168601724937,1,28.94,SHIPPED,15.75,0,8.24,"Minh Tran",dragonlive0906@gmail.com,US,VSID_NzMOVz,23.99,"** D.VA STYLE **",VSID_jGJDWY,VSID_KN22zN,viralstyle.com,0
+VSID_ga0JmY,"2016-08-11 23:03:27",VS201681101736488,1,28.94,SHIPPED,13,0,10.99,"Lindsay Matthews",matthews596@gmail.com,US,VSID_dwM5D1,23.99,"** D.VA STYLE **",VSID_gBL891,VSID_KN22zN,viralstyle.com,0
+VSID_NPZEkD,"2016-11-29 21:27:04",VS2016112902023018,1,39.94,SHIPPED,12,0,16.99,"Michael Webb",micwebb@hotmail.com,GB,VSID_gBr5mO,28.99,"** D.VA STYLE **",VSID_gWPYW4,VSID_KN22zN,viralstyle.com,0
+VSID_N05r1q,"2016-12-04 20:30:43",VS201612402040734,1,28.94,SHIPPED,10.8,0,13.19,"Austen Panon",Austenpanon10@gmail.com,US,VSID_dAKLMG,23.99,"** D.VA STYLE **",VSID_d9b7on,VSID_KN22zN,viralstyle.com,0
+VSID_jeaL2m,"2017-06-23 19:25:32",VS201762302508867,1,30.62,SHIPPED,9.75,0,14.24,"Najib Ramos",najibramos1@gmail.com,US,VSID_gBlz2o,23.99,"** D.VA STYLE **",VSID_dwo0kp,VSID_KN22zN,viralstyle.com,0

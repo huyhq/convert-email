@@ -1,0 +1,7 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jJ8bMQ,"2016-07-17 20:44:11",VS201671701660926,1,23.94,SHIPPED,6.75,0,12.24,"Mark Ginsburg",mrkgin@aol.com,US,VSID_j86Qeo,18.99,"VIETNAM VET MUG",VSID_NyeqZX,VSID_jGqoLN,viralstyle.com,0
+VSID_j5R4lD,"2016-07-31 21:59:27",VS201673101707847,1,23.94,SHIPPED,6.75,0,12.24,"Patrick Matriscino",pmatriscino@rochester.rr.com,US,VSID_gb7okk,18.99,"VIETNAM VET MUG",VSID_N0lb74,VSID_jGqoLN,viralstyle.com,0
+VSID_NyD3vE,"2016-08-09 01:31:50",VS20168901730397,1,23.94,SHIPPED,6.75,0,12.24,"Peter Baumann",pub53scorer@aol.com,US,VSID_jEP81D,18.99,"VIETNAM VET MUG",VSID_j5V0qk,VSID_jGqoLN,viralstyle.com,0
+VSID_jGEmw2,"2016-08-13 03:48:39",VS201681301739825,1,23.94,SHIPPED,6.75,0,12.24,"OSTRANDER OSTRANDER",ostranderd@earthlink.net,US,VSID_jeLZRL,18.99,"VIETNAM VET MUG",VSID_NZmynX,VSID_jGqoLN,viralstyle.com,0
+VSID_dRllRJ,"2016-08-14 19:08:08",VS201681401743817,1,23.94,SHIPPED,6.75,0,12.24,"Elizabeth Noseda",enoseda@comcast.net,US,VSID_dKvYJp,18.99,"VIETNAM VET MUG",VSID_NZmynX,VSID_jGqoLN,viralstyle.com,0
+VSID_N22lER,"2016-09-28 15:09:41",VS201692801855160,1,23.94,SHIPPED,6.75,0,12.24,"BOBBY PYLES",bjpyles@frontier.com,US,VSID_dR9eBb,18.99,"VIETNAM VET MUG",VSID_jJa191,VSID_jGqoLN,viralstyle.com,0

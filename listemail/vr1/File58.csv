@@ -1,0 +1,16 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_dRRxQp,"2017-10-26 14:34:24",VS2017102602771061,1,28.9,SHIPPED,7.8,0,16.15,"Lisa Gutierrez-Virgen",pinklady1love@gmail.com,US,VSID_jJDePw,23.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_dwlQpD,"2017-10-26 15:00:30",VS2017102602771140,1,28.9,SHIPPED,7.8,0,16.15,"Sally Keohen",sallykeohen@yahoo.com,US,VSID_dvpB1E,23.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_gB3OmL,"2017-10-26 15:26:08",VS2017102602771211,1,28.9,SHIPPED,8.64,0,15.31,"Nancy Salazar",nsalaz5@msn.com,US,VSID_jqv9lo,23.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_dvbQ6o,"2017-10-26 17:38:01",VS2017102602771605,3,77.8,SHIPPED,24.24,0,47.61,"Estrella Renteria",estrellarenteria@att.net,US,VSID_gWpLlw,71.85,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_dKpkwl,"2017-10-26 17:41:11",VS2017102602771620,1,18.95,SHIPPED,7.8,1,11.15,"Estrella Renteria",estrellarenteria@att.net,US,VSID_N2LnRz,18.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_NlBRk2,"2017-10-26 18:18:25",VS2017102602771722,1,30.9,SHIPPED,9.8,0,16.15,"Robert Alexander",uh1vce@att.net,US,VSID_jEDMXA,25.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_jE83DX,"2017-10-26 18:46:55",VS2017102602771815,1,30.9,SHIPPED,10.64,0,15.31,"carole bauer",carole.bauer@hotmail.com,US,VSID_d9VOvn,25.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_doxKZX,"2017-10-26 21:15:10",VS2017102602772276,1,28.9,SHIPPED,7.8,0,16.15,"Janice Witcher",happyjbrunner@yahoo.com,US,VSID_NQ8Qlk,23.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_gaaqRD,"2017-10-27 00:18:44",VS2017102702772800,2,57.35,CANCEL,20.44,0,31.46,"Albert Garcia",true2_theblue@yahoo.com,US,VSID_dDDyyQ,51.9,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_j8eW6M,"2017-10-27 02:09:33",VS2017102702773148,2,56.35,CANCEL,19.36,0,31.54,Karla|Salazar,kpalomino21@msn.com,US,VSID_jJDQb1,50.9,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_NZGZa9,"2017-10-27 02:12:02",VS2017102702773156,1,19.95,CANCEL,9.56,1,10.39,Karla|Salazar,kpalomino21@msn.com,US,VSID_N0DqyY,19.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_NzGKql,"2017-10-27 02:17:05",VS2017102702773172,1,29.9,CANCEL,9.56,0,15.39,Karla|Salazar,kpalomino21@msn.com,US,VSID_d9VJPo,24.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_jE8Eka,"2017-10-27 11:29:59",VS2017102702773859,1,28.9,SHIPPED,7.8,0,16.15,"Mr. Michael Slate",Mslatee7@gmx.com,US,VSID_j5D239,23.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_jMZe2L,"2017-10-27 13:08:52",VS2017102702774031,2,58.35,SHIPPED,20.6,0,32.3,"NANCY CALDERON",NCALDER90039@YAHOO.COM,US,VSID_N1DoRM,52.9,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0
+VSID_drRZAL,"2017-10-27 13:09:07",VS2017102702774033,1,28.9,SHIPPED,8.64,0,15.31,"Sonia Rodriguez",sorodriguez75751@gmail.com,US,VSID_jEDpLA,23.95,"** LIMITED EDITION **",VSID_jOEJRJ,VSID_KN22zN,viralstyle.com,0

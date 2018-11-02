@@ -1,0 +1,4 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_g7vLvE,"2017-01-10 07:24:19",VS201711002132638,1,51.98,SHIPPED,18.75,0,22.24,"Hayden Riede",hayden19.hr@gmail.com,AU,VSID_g73WWE,40.99,"*** Limited Edition ***",VSID_NpbJ41,VSID_NVk0nX,viralstyle.com,0
+VSID_j33Ll5,"2017-01-10 17:19:42",VS201711002133489,1,37.98,SHIPPED,12,0,17.99,"Erik Manfred",erik.94.man@gmail.com,SE,VSID_gaqQ6J,29.99,"*** Limited Edition ***",VSID_NpbJ41,VSID_NVk0nX,viralstyle.com,0
+VSID_NZE4KX,"2017-01-10 18:41:42",VS201711002133656,1,31.98,SHIPPED,9.75,0,14.24,"Darragh Cosgrove",darragh.v.cosgrove@gmail.com,IE,VSID_NnnQP2,23.99,"*** Limited Edition ***",VSID_NpbJ41,VSID_NVk0nX,viralstyle.com,0

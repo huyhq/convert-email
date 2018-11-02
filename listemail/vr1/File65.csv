@@ -1,0 +1,11 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jMRanM,"2015-05-28 02:47:52",VS201552800401275,1,26.94,SHIPPED,11.16,0,10.83,"Francesca Flood",angiea024@yahoo.com,US,VSID_NxozZm,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_NZK1OZ,"2015-05-28 17:29:56",VS201552800401656,1,28.94,SHIPPED,13.16,0,10.83,"Katherine McGill",chickie518@hotmail.com,US,VSID_NkqEmL,23.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_dXxBZR,"2015-05-28 18:13:48",VS201552800401683,1,29.94,SHIPPED,14.16,0,10.83,"ALEXANDER VILLATORO",alexvillatoro12@gmail.com,US,VSID_NlO2Dw,24.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_jMRaWy,"2015-05-28 22:47:32",VS201552800401875,1,26.94,SHIPPED,11.16,0,10.83,"Connie Pontius",grannieof009@yahoo.com,US,VSID_NxoZxY,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_dR5v66,"2015-05-29 14:16:27",VS201552900402417,1,26.94,SHIPPED,11.16,0,10.83,"christina rodriguez ",dhubbard71@yahoo.com,US,VSID_NZK1DG,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_j5YDOX,"2015-05-29 17:11:27",VS201552900402591,1,26.94,SHIPPED,11.16,0,10.83,"Ana Zavala",aozavala1@hotmail.com,US,VSID_j6zD9Q,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_doOxOX,"2015-05-29 22:09:26",VS201552900402876,1,28.94,SHIPPED,13.16,0,10.83,"Yvette Morales",yvette.morales33@yahoo.com,US,VSID_jEYDEz,23.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_NVJ7MX,"2015-05-31 21:48:40",VS201553100405336,1,26.94,SHIPPED,11.16,0,10.83,"Erik Zamora",xavier99mari@gmail.com,US,VSID_jMRZq1,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_dw1wwW,"2015-06-01 15:18:27",VS20156100406084,1,26.94,SHIPPED,11.16,0,10.83,"april beltran",betsy.beltran@yahoo.com,US,VSID_jeRV59,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0
+VSID_jGPyJ7,"2015-06-02 01:11:06",VS20156200406725,1,26.94,SHIPPED,11.16,0,10.83,"Hayley Melchert",melcherthayley@hotmail.com,US,VSID_dKm7kM,21.99,"BEARS DAD",VSID_NZwX9d,VSID_KN22zN,viralstyle.com,0

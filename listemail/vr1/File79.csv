@@ -1,0 +1,7 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j55lr9,"2017-01-13 19:08:25",VS201711302141447,1,28.94,SHIPPED,9.75,0,14.24,"Dee Wermuth",r.wermuth611@comcast.net,US,VSID_dXpDwB,23.99,"**** LIMITED EDITION ****",VSID_dwJ311,VSID_KN22zN,viralstyle.com,0
+VSID_dvz308,"2017-01-15 04:52:12",VS201711502145393,1,28.94,SHIPPED,9.75,0,14.24,"Eileen Bamberger",emb729@aol.com,US,VSID_drZXwa,23.99,"**** LIMITED EDITION ****",VSID_dwJ311,VSID_KN22zN,viralstyle.com,0
+VSID_j3364R,"2017-01-17 04:34:48",VS201711702149245,1,31.94,SHIPPED,12.75,0,14.24,"Dana Steele",dlsteele1968@yahoo.com,US,VSID_N0PaqK,26.99,"**** LIMITED EDITION ****",VSID_dwJ311,VSID_KN22zN,viralstyle.com,0
+VSID_gWZ1K6,"2017-01-17 19:33:16",VS201711702150146,1,28.94,SHIPPED,9.75,0,14.24,"Richard Bresch",bbresch02@aol.com,US,VSID_j3O50R,23.99,"**** LIMITED EDITION ****",VSID_dwJ311,VSID_KN22zN,viralstyle.com,0
+VSID_Nnzep3,"2017-01-25 16:59:19",VS201712502165696,2,53.43,SHIPPED,19.5,0,28.48,"Cindy Sutton",jamessutton@comcast.net,US,VSID_NZZEDZ,47.98,"**** LIMITED EDITION ****",VSID_jJAm3w,VSID_KN22zN,viralstyle.com,0
+VSID_d4Q053,"2017-08-18 01:44:11",VS201781802619427,1,28.94,SHIPPED,8.5,0,15.49,"Eileen Bamberger",emb729@aol.com,US,VSID_d4wB1D,23.99,"**** LIMITED EDITION ****",VSID_j67w4q,VSID_KN22zN,viralstyle.com,0

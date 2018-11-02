@@ -1,0 +1,6 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_NY5eyq,"2016-04-02 14:09:04",VS20164201316973,1,30.94,SHIPPED,16,0,9.99,"Stephanie Evans",destinadia@gmail.com,US,VSID_d9Kbxn,25.99,"**I'M A HORDE **",VSID_d9AZ00,VSID_KN22zN,viralstyle.com,0
+VSID_j6rK21,"2016-04-03 02:44:18",VS20164301319630,1,28.94,SHIPPED,14.05,0,9.94,"Haley Morgan",hanimo2011@gmail.com,US,VSID_dDKO6o,23.99,"**I'M A HORDE **",VSID_d9AZ00,VSID_KN22zN,viralstyle.com,0
+VSID_dXWZV5,"2016-04-03 05:48:24",VS20164301320083,1,27.94,SHIPPED,13,0,9.99,"Wayne Robert Hight",wayne.hight@yahoo.com,US,VSID_jOnGyL,22.99,"**I'M A HORDE **",VSID_d9AZ00,VSID_KN22zN,viralstyle.com,0
+VSID_gBMrK5,"2016-04-03 21:22:20",VS20164301322111,1,30.94,SHIPPED,16,0,9.99,"Tiffany Trahant",sparklesofdoom@gmail.com,US,VSID_N17x6w,25.99,"**I'M A HORDE **",VSID_d9AZ00,VSID_KN22zN,viralstyle.com,0
+VSID_gaBq1a,"2016-04-04 15:03:17",VS20164401324300,1,27.94,SHIPPED,13,0,9.99,"Mandy Black",kingdomheartsgame@hotmail.com,US,VSID_NlY1RE,22.99,"**I'M A HORDE **",VSID_d9AZ00,VSID_KN22zN,viralstyle.com,0

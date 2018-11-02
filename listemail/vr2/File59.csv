@@ -1,0 +1,7 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_NxW7E4,"2016-09-01 18:54:51",VS20169101789858,1,28.94,SHIPPED,13,0,10.99,"Robert Torres",rotorres63.rt63@gmail.com,US,VSID_j8anEl,23.99,"VIETNAM VETERAN - GRANDPA",VSID_dwXe4D,VSID_jGqoLN,viralstyle.com,0
+VSID_doorPy,"2016-09-01 19:52:58",VS20169101790032,1,47.94,SHIPPED,22,0,17.99,"Roy Coulbourn",roosterroy125@verizon.net,US,VSID_NZOb0W,39.99,"VIETNAM VETERAN - GRANDPA",VSID_dwXe4D,VSID_jGqoLN,viralstyle.com,0
+VSID_dvaXw8,"2016-09-03 14:18:52",VS20169301795593,1,31.94,SHIPPED,16,0,10.99,"Ed Hobbs",ewhobbs8@gmail.com,US,VSID_NzDDmK,26.99,"VIETNAM VETERAN - GRANDPA",VSID_dwXe4D,VSID_jGqoLN,viralstyle.com,0
+VSID_dooaOx,"2016-09-07 23:11:28",VS20169701808432,1,47.94,SHIPPED,22,0,17.99,"Joseph Conway",jake436675@aol.com,US,VSID_gBpGZK,39.99,"VIETNAM VETERAN - GRANDPA",VSID_j8M49M,VSID_jGqoLN,viralstyle.com,0
+VSID_gWBlE1,"2016-09-27 00:15:01",VS201692701852102,1,47.94,SHIPPED,22,0,17.99,"TJ (ted) Coakley",tedc818@hotmail.com,US,VSID_gLaWmm,39.99,"VIETNAM VETERAN - GRANDPA",VSID_N2pJAo,VSID_jGqoLN,viralstyle.com,0
+VSID_dApk82,"2016-09-30 20:49:24",VS201693001860242,1,30.94,SHIPPED,15,0,10.99,"Virginia Remigio",vrremigio@yahoo.om,US,VSID_gWBeY2,25.99,"VIETNAM VETERAN - GRANDPA",VSID_dKmMqo,VSID_jGqoLN,viralstyle.com,0

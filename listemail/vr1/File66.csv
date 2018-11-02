@@ -1,0 +1,13 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_gWv78a,"2016-06-02 19:12:48",VS20166201513790,1,19.99,SHIPPED,11.5,1,8.49,"Nicola DeCesare",nicolaldecesare@gmail.com,US,VSID_N0aVzq,19.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_doQEz0,"2016-06-03 07:52:24",VS20166301515732,1,19.99,SHIPPED,11.5,1,8.49,"Rebecca Jury",rebeccajury@adam.com.au,AU,VSID_jOLMG1,22.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_dvKWQx,"2016-06-03 16:47:26",VS20166301516905,1,19.99,SHIPPED,11.5,1,8.49,"Diane Lewis",happywith4@verizon.net,US,VSID_gaEJaa,19.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_Nl7xJA,"2016-06-04 00:31:50",VS20166401518566,1,19.99,SHIPPED,11.5,1,8.49,"Daphne Hattaway",Daphnehattaway@hotmail.com,US,VSID_j8nnWx,22.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_gB4neo,"2016-06-04 06:35:38",VS20166401519611,1,19.99,CANCEL,11.5,1,8.49,"Roberta Stoker",smerleann@yahoo.com,US,VSID_gB4mAX,19.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_jOL4w8,"2016-06-04 15:48:27",VS20166401520665,1,19.99,SHIPPED,11.5,1,8.49,"Lorene Dinsmore",missdinsmore@yahoo.com,US,VSID_NZbaEo,19.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_j35zGw,"2016-06-04 21:46:36",VS20166401521945,1,19.99,SHIPPED,11.5,1,8.49,"Kristen Glendenning",phoenix_smith@rocketmail.com,US,VSID_d483z3,19.99,"**Special Edition **",VSID_NQllOk,VSID_KN22zN,viralstyle.com,0
+VSID_jMz1RX,"2016-06-10 12:58:16",VS201661001539331,1,19.99,SHIPPED,11.5,1,8.49,"Joan Voorhees",mizara45@yahoo.com,US,VSID_Nk7M66,19.99,"**Special Edition **",VSID_gWP4az,VSID_KN22zN,viralstyle.com,0
+VSID_NVVEbZ,"2016-06-10 15:49:40",VS201661001539780,1,19.99,CANCEL,11.5,1,8.49,"Carri C Christiansen",carricc1@yahoo.com,US,VSID_jGYoX2,0,"**Special Edition **",VSID_gWP4az,VSID_KN22zN,viralstyle.com,0
+VSID_dRznba,"2016-06-12 11:02:09",VS201661201545517,1,19.99,SHIPPED,11.5,1,8.49,"kim Wiggins",crazymom66@aol.com,US,VSID_je7yVq,19.99,"**Special Edition **",VSID_gWP4az,VSID_KN22zN,viralstyle.com,0
+VSID_j6y521,"2016-11-23 01:17:22",VS2016112301997230,1,27.94,SHIPPED,11.5,0,11.49,"joni cooper",jadenandsarah@gmail.com,US,VSID_NzRaz1,22.99,"**Special Edition **",VSID_NkGrmY,VSID_KN22zN,viralstyle.com,0
+VSID_dXpzQ8,"2016-12-19 21:29:59",VS2016121902079439,1,27.94,SHIPPED,11.5,0,11.49,"Dustin Clark",vikingblood6669@gmail.com,US,VSID_ga96QP,22.99,"**Special Edition **",VSID_NywW2o,VSID_KN22zN,viralstyle.com,0

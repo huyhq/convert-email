@@ -1,0 +1,36 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jqMYJz,"2016-07-14 03:06:04",VS201671401647663,1,31.94,SHIPPED,16,0,10.99,"Thaddeus Ballew",kingballew@rocket.com,US,VSID_jMzqQL,26.99,"CAME HOME",VSID_dXQwQR,VSID_jGqoLN,viralstyle.com,0
+VSID_NYL59Q,"2016-07-14 19:03:54",VS201671401649429,1,26.54,SHIPPED,13,0,8.59,"Larry Woellert",lwoellert@hotmail.com,US,VSID_NyLo83,23.99,"CAME HOME",VSID_dXQwQR,VSID_jGqoLN,viralstyle.com,2.4
+VSID_dvMy1E,"2016-07-15 00:48:35",VS201671501650449,1,31.94,SHIPPED,16,0,10.99,"James L Heaton",jlheat1945@ymail.com,US,VSID_jJwl0A,26.99,"CAME HOME",VSID_dXQwQR,VSID_jGqoLN,viralstyle.com,0
+VSID_gL9aDa,"2016-07-17 18:54:23",VS201671701660537,2,59.43,SHIPPED,32,0,21.98,"Thomas Dawson",tdukester1@aol.com,US,VSID_dAJnBR,53.98,"CAME HOME",VSID_dXQwQR,VSID_jGqoLN,viralstyle.com,0
+VSID_d992eJ,"2016-07-20 17:26:37",VS201672001669550,1,30.62,SHIPPED,13,0,10.99,"Edward Laube",mred99@aol.com,US,VSID_NpDG4q,23.99,"CAME HOME",VSID_NVEBBA,VSID_jGqoLN,viralstyle.com,0
+VSID_j3awp5,"2016-07-22 17:56:42",VS201672201675801,1,30.94,SHIPPED,15,0,10.99,"Jerry Williams",neil9w@att.net,US,VSID_NzMZXz,25.99,"CAME HOME",VSID_NVEBBA,VSID_jGqoLN,viralstyle.com,0
+VSID_gBEDAV,"2016-07-23 13:09:16",VS201672301678611,1,28.94,SHIPPED,13,0,10.99,"Michal Field",oldforgetful47@gmail.com,US,VSID_dDROeK,23.99,"CAME HOME",VSID_NVEBBA,VSID_jGqoLN,viralstyle.com,0
+VSID_j5WbkE,"2016-07-24 11:28:06",VS201672401682191,1,31.94,SHIPPED,15.5,0,11.49,"George Palaic",biggeo10@sbcglobal.net,US,VSID_jEP6Az,26.99,"CAME HOME",VSID_NVEBBA,VSID_jGqoLN,viralstyle.com,0
+VSID_NpDe6A,"2016-07-27 00:13:26",VS201672701691354,1,28.94,SHIPPED,13,0,10.99,"Albert Anderson",sfm4042@optonline.net,US,VSID_d43pb9,23.99,"CAME HOME",VSID_gBLlkX,VSID_jGqoLN,viralstyle.com,0
+VSID_NnMGAn,"2016-07-28 12:14:01",VS201672801695696,1,31.94,SHIPPED,16,0,10.99,"Joseph Vidra",jvidra@gmail.com,US,VSID_dvML6z,26.99,"CAME HOME",VSID_gBLlkX,VSID_jGqoLN,viralstyle.com,0
+VSID_NpDYl1,"2016-07-28 15:17:48",VS201672801696198,1,31.94,SHIPPED,16,0,10.99,"Ronald Holt",ronholtsr@yahoo.com,US,VSID_jG3apY,26.99,"CAME HOME",VSID_gBLlkX,VSID_jGqoLN,viralstyle.com,0
+VSID_NnM4Rp,"2016-07-28 20:37:28",VS201672801697108,1,31.94,SHIPPED,16,0,10.99,"Thomas Ford",tford60@earthlink.net,US,VSID_doMW8x,26.99,"CAME HOME",VSID_gBLlkX,VSID_jGqoLN,viralstyle.com,0
+VSID_NPOmmq,"2016-07-30 17:48:52",VS201673001703718,1,28.94,SHIPPED,13,0,10.99,"Charles H Stebler Jr.",crazychas24@aol.com,US,VSID_jMkkyM,23.99,"CAME HOME",VSID_gBLlkX,VSID_jGqoLN,viralstyle.com,0
+VSID_dRl55a,"2016-08-02 00:30:09",VS20168201711617,1,28.94,SHIPPED,13,0,10.99,"Michael Kenyon",mkenyon1@cox.net,US,VSID_jEP3pP,23.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_d42rbk,"2016-08-02 04:30:08",VS20168201712371,1,28.94,SHIPPED,13,0,10.99,"Doug Thurman",athurman@fairpoint.net,US,VSID_NPpZDw,23.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_dvw3ER,"2016-08-04 20:10:23",VS20168401719593,1,28.94,SHIPPED,13,0,10.99,"John Wyant",wyant0846@aol.com,US,VSID_jOyoq7,23.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_NV4rQM,"2016-08-05 16:38:59",VS20168501721736,1,28.94,SHIPPED,13,0,10.99,"Dan Wininger",danwininger@yahoo.com,US,VSID_d43n4J,23.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_dKqVzb,"2016-08-05 17:50:01",VS20168501721920,2,59.43,CANCEL,32,0,21.98,"Charles Bumgardner",madsniper196@outlook.com,US,VSID_NkLkKL,53.98,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_gm0Lqy,"2016-08-05 17:50:14",VS20168501721924,1,59.43,SHIPPED,16,0,37.98,"Charles Bumgardner",madsniper196@outlook.com,US,VSID_gBEl9O,53.98,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_dAyVb2,"2016-08-06 20:13:11",VS20168601724986,1,28.94,SHIPPED,13,0,10.99,"Vickie parvi",vickieparvin@yhoo.com,US,VSID_gmMn1Z,23.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_gLOV01,"2016-08-08 01:32:34",VS20168801728237,1,28.94,SHIPPED,13,0,10.99,"Dan Wininger",danwininger@yahoo.com,US,VSID_NkL67J,23.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_d93RVQ,"2016-08-08 02:02:45",VS20168801728306,1,31.94,SHIPPED,16,0,10.99,"Carl McNair",ltm1358@gmail.com,US,VSID_NPp5pQ,26.99,"CAME HOME",VSID_dvXpQz,VSID_jGqoLN,viralstyle.com,0
+VSID_g7qqJ2,"2016-08-14 13:15:05",VS201681401743082,1,31.94,SHIPPED,16,0,10.99,"larry swartz",larryswartz1133@gmail.com,US,VSID_dKvx0R,26.99,"CAME HOME",VSID_NPxPEP,VSID_jGqoLN,viralstyle.com,0
+VSID_Nn0q9n,"2016-08-16 12:09:58",VS201681601748408,1,29.94,SHIPPED,13.5,0,11.49,"Roger Crochet",ugly64@charter.net,US,VSID_gaLmpM,24.99,"CAME HOME",VSID_jEARpK,VSID_jGqoLN,viralstyle.com,0
+VSID_NV4B7J,"2016-08-18 16:57:21",VS201681801753536,1,28.94,SHIPPED,13,0,10.99,"james Barker",jwbarker46@gmail.com,US,VSID_d99zvY,23.99,"CAME HOME",VSID_jEARpK,VSID_jGqoLN,viralstyle.com,0
+VSID_dwDzbW,"2016-08-18 17:20:47",VS201681801753584,3,77.92,SHIPPED,39,0,32.97,"Paddy Murphy",I3176@optonline.net,US,VSID_NyM4Ao,71.97,"CAME HOME",VSID_jEARpK,VSID_jGqoLN,viralstyle.com,0
+VSID_dKqDwR,"2016-08-23 02:17:51",VS201682301764920,1,28.94,SHIPPED,13,0,10.99,"Teofilo Vasquez",ianethanmichael3@gmail.com,US,VSID_dRlel9,23.99,"CAME HOME",VSID_dvXrra,VSID_jGqoLN,viralstyle.com,0
+VSID_N0Z074,"2016-08-24 13:40:18",VS201682401768278,1,31.94,SHIPPED,15.5,0,11.49,"Mike Manning",gulickmm@yahoo.com,US,VSID_N0ZB1k,26.99,"CAME HOME",VSID_dvXrra,VSID_jGqoLN,viralstyle.com,0
+VSID_NPOP4R,"2016-08-25 03:54:55",VS201682501770262,1,28.94,SHIPPED,13,0,10.99,"Jack Mccoy",jackmccoy549@gmail.com,US,VSID_NzDvp1,23.99,"CAME HOME",VSID_dvXrra,VSID_jGqoLN,viralstyle.com,0
+VSID_Np0Yq2,"2016-08-29 20:35:59",VS201682901782298,1,30.94,SHIPPED,15,0,10.99,"David Roe",Chaparral_davidroe@yahoo.com,US,VSID_j6PZbE,25.99,"CAME HOME",VSID_dvXrra,VSID_jGqoLN,viralstyle.com,0
+VSID_NxXLzY,"2016-08-29 21:45:12",VS201682901782458,1,28.94,SHIPPED,13,0,10.99,"J Michael Treadwell",jmichaeltreadwell@yahoo.com,US,VSID_do0enO,23.99,"CAME HOME",VSID_dvXrra,VSID_jGqoLN,viralstyle.com,0
+VSID_jeo4Yb,"2016-09-02 20:44:15",VS20169201793423,1,31.94,SHIPPED,16,0,10.99,"richard johnson",rwjjkm@yqahoo.com,US,VSID_j5RW29,26.99,"CAME HOME",VSID_N21D4K,VSID_jGqoLN,viralstyle.com,0
+VSID_NZxmLK,"2016-09-03 13:54:22",VS20169301795512,1,31.94,SHIPPED,16,0,10.99,"Rosalynn Jones",rosalynnj66r@gmail.com,US,VSID_j8aaKe,26.99,"CAME HOME",VSID_N21D4K,VSID_jGqoLN,viralstyle.com,0
+VSID_N1p00l,"2016-11-09 01:51:50",VS201611901957213,1,30.94,SHIPPED,11.75,0,14.24,"Donald Snyder",snagglepuss@toast.net,US,VSID_N1pW7z,25.99,"CAME HOME",VSID_d9LnWo,VSID_jGqoLN,viralstyle.com,0
+VSID_Npp78J,"2016-12-19 16:13:38",VS2016121902078710,1,47.94,SHIPPED,18.75,0,21.24,"Nathaniel Sutton",natesuttosr@gmail.com,US,VSID_NnqROZ,39.99,"CAME HOME",VSID_gBPkl5,VSID_jGqoLN,viralstyle.com,0

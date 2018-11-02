@@ -1,0 +1,13 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j8axlx,"2016-08-04 20:55:40",VS20168401719704,1,27.94,SHIPPED,20.25,0,2.74,"Thomas Frate",tomfrate@verizon.net,US,VSID_jJ8opA,22.99,"BROTHERS & SISTERS",VSID_dRLR3a,VSID_jGqoLN,viralstyle.com,0
+VSID_dr0LwG,"2016-08-05 18:07:53",VS20168501721977,1,28.94,SHIPPED,17.25,0,6.74,"Ronnie Swanger",ronnie.swanger@yahoo.com,US,VSID_j8vZOZ,23.99,"BROTHERS & SISTERS",VSID_dRLR3a,VSID_jGqoLN,viralstyle.com,0
+VSID_jGEK5Y,"2016-08-06 14:13:31",VS20168601724069,1,28.94,SHIPPED,17.25,0,6.74,"Richard Krall",makoman2271@gmail.com,US,VSID_gb7JBO,23.99,"BROTHERS & SISTERS",VSID_dRLR3a,VSID_jGqoLN,viralstyle.com,0
+VSID_jGEeAO,"2016-08-08 15:39:10",VS20168801729225,1,30.94,SHIPPED,17.75,0,8.24,"Albert M Taylor",johnsdad1@tds.net,US,VSID_N06DW4,25.99,"BROTHERS & SISTERS",VSID_dRLR3a,VSID_jGqoLN,viralstyle.com,0
+VSID_je0YDL,"2016-08-10 14:51:51",VS201681001733267,1,32.94,SHIPPED,19.75,0,8.24,"Bob Pence",chicagocubsbob@gmail.com,US,VSID_NV27Gn,27.99,"BROTHERS & SISTERS",VSID_dRLR3a,VSID_jGqoLN,viralstyle.com,0
+VSID_Np05lk,"2016-08-11 04:19:00",VS201681101734898,1,30.94,SHIPPED,17.75,0,8.24,"janet FIELD",JFIELD21@MSN.COM,US,VSID_NlMZkE,25.99,"BROTHERS & SISTERS",VSID_j5VXen,VSID_jGqoLN,viralstyle.com,0
+VSID_N0Zamr,"2016-08-12 00:26:14",VS201681201736678,1,28.94,SHIPPED,17.25,0,6.74,"Tom Rawlings",TRawl10385@aol.com,US,VSID_jOyX31,23.99,"BROTHERS & SISTERS",VSID_j5VXen,VSID_jGqoLN,viralstyle.com,0
+VSID_j6P99J,"2016-08-12 06:31:09",VS201681201737374,1,31.94,SHIPPED,20.25,0,6.74,"Michael Slyck",Bravo16India@rochester.rr.com,US,VSID_dvMWra,26.99,"BROTHERS & SISTERS",VSID_j5VXen,VSID_jGqoLN,viralstyle.com,0
+VSID_N11pxL,"2016-08-15 20:25:27",VS201681501746657,1,30.94,SHIPPED,19.25,0,6.74,"Leonard A. Mondile",moondoggie@centurylink.net,US,VSID_drwM07,25.99,"BROTHERS & SISTERS",VSID_j5VXen,VSID_jGqoLN,viralstyle.com,0
+VSID_NyDqYX,"2016-08-17 19:07:58",VS201681701751497,1,28.94,SHIPPED,17.25,0,6.74,"George Dunson",gdunson56@gmail.com,US,VSID_NnMBO3,23.99,"BROTHERS & SISTERS",VSID_j5VXen,VSID_jGqoLN,viralstyle.com,0
+VSID_jE18zP,"2016-08-23 15:59:11",VS201682301765959,1,28.94,SHIPPED,17.25,0,6.74,"russ paquette",rpaquette@chartermi.net,US,VSID_NkQXnA,23.99,"BROTHERS & SISTERS",VSID_Nz6Abv,VSID_jGqoLN,viralstyle.com,0
+VSID_NVn2nn,"2016-12-21 02:57:38",VS2016122102082280,1,28.94,SHIPPED,17.25,0,6.74,"Gerald E Rasmussen",jndras@yahoo.com,US,VSID_d9Z12P,23.99,"BROTHERS & SISTERS",VSID_dK3o1p,VSID_jGqoLN,viralstyle.com,0

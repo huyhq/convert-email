@@ -1,0 +1,9 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_d99P1Q,"2016-07-18 03:22:42",VS201671801662350,1,27.94,SHIPPED,16,0,6.99,"Sam Woodrow Jr,",pawpawjune@yahoo.com,US,VSID_jEmymz,22.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_jJ8rDw,"2016-07-18 04:08:26",VS201671801662470,1,34.94,SHIPPED,13,0,10.99,"Matt Smith",diesel_dog85@live.com,AU,VSID_jGm1Ew,23.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_dvMQ2B,"2016-07-18 19:56:54",VS201671801664093,1,28.94,SHIPPED,13,0,10.99,"Stanley Crowell",dsman72@gmail.com,US,VSID_j5WL99,23.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_NxwPwY,"2016-07-19 05:04:07",VS201671901665814,1,30.94,SHIPPED,15,0,10.99,"Ronald Salas",bboysneezy@gmail.com,US,VSID_gb7Xqk,25.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_NYLAwa,"2016-07-21 13:35:42",VS201672101671773,1,28.94,SHIPPED,13,0,10.99,"Eric Johnson",erihanapop@gmail.com,US,VSID_NyMe40,23.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_j8vDq1,"2016-07-23 14:52:20",VS201672301678992,1,28.94,SHIPPED,13,0,10.99,"Chris Williams",cwilliams.cw99@gmail.com,US,VSID_gWReB0,23.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_gaLa6D,"2016-07-24 03:39:02",VS201672401681644,1,30.94,SHIPPED,15,0,10.99,"April Knight",aprilknight@cox.net,US,VSID_NV2XvW,25.99,"KEEP GOING!!!",VSID_j3MOkq,VSID_jGqoLN,viralstyle.com,0
+VSID_jJraok,"2016-10-08 05:43:13",VS201610801881070,1,50.94,SHIPPED,25,0,17.99,"Martin Caesar",martycaesar22@gmail.com,US,VSID_NnoeJr,42.99,"KEEP GOING!!!",VSID_jqy19v,VSID_jGqoLN,viralstyle.com,0

@@ -1,0 +1,5 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j3p7oG,"2017-03-08 02:59:55",VS20173802232389,1,32.94,SHIPPED,12.75,0,15.24,"Gerrit markus",markusterri@yahoo.com,US,VSID_jEqp2K,27.99,"***Special Edition***",VSID_d4Ev9x,VSID_gLKmlp,viralstyle.com,0
+VSID_jJkpyE,"2017-03-08 21:50:05",VS20173802233626,4,108.41,SHIPPED,41,0,60.96,"Scott Field",lionssdf@yahoo.com,US,VSID_dRkQmp,101.96,"***Special Edition***",VSID_d4Ev9x,VSID_gLKmlp,viralstyle.com,0
+VSID_NyrE7K,"2017-03-09 01:30:08",VS20173902233997,2,55.43,SHIPPED,19.5,0,30.48,"Brandon Brown",Thelonewolf_2013@yahoo.com,US,VSID_j68rLJ,49.98,"***Special Edition***",VSID_d4Ev9x,VSID_gLKmlp,viralstyle.com,0
+VSID_jEW2Ka,"2017-03-09 13:55:11",VS20173902234815,2,61.43,SHIPPED,25.5,0,30.48,"Robert Reynolds",cleat73@gmail.com,US,VSID_j68r9X,55.98,"***Special Edition***",VSID_d4Ev9x,VSID_gLKmlp,viralstyle.com,0

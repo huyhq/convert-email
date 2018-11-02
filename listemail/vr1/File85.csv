@@ -1,0 +1,6 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_N0qBaY,"2016-02-29 16:17:37",VS201622901206878,1,33.94,SHIPPED,20.25,0,8.74,"Kevin Ramsey",ramseyk@berea.edu,US,VSID_jerP1K,28.99,"** SPECIAL EDITION **",VSID_dD8yYk,VSID_KN22zN,viralstyle.com,0
+VSID_jOQE8k,"2016-03-02 12:54:40",VS20163201213065,1,30.94,SHIPPED,17.25,0,8.74,"evan huskey",huskeyevan@yahoo.com,US,VSID_Ny34pz,25.99,"** SPECIAL EDITION **",VSID_dD8yYk,VSID_KN22zN,viralstyle.com,0
+VSID_jEpbmK,"2016-03-03 07:24:30",VS20163301216615,1,32.94,SHIPPED,19.25,0,8.74,"Joseph Miller",micythebeast@yahoo.com,US,VSID_NVQZv4,27.99,"** SPECIAL EDITION **",VSID_dD8yYk,VSID_KN22zN,viralstyle.com,0
+VSID_NnDeXn,"2016-04-01 11:58:29",VS20164101312896,1,33.94,SHIPPED,20.25,0,8.74,"sammie Johnson",srjohnaon1983@yahoo.com,US,VSID_NQplDk,28.99,"** WOW LICHKING**",VSID_dvZyJR,VSID_KN22zN,viralstyle.com,0
+VSID_gBz7GX,"2016-05-06 16:42:26",VS20165601428011,2,53.43,SHIPPED,34.5,0,13.48,"Eric Escandon",escander1117@yahoo.com,US,VSID_jeJJz6,47.98,"** WOW LICHKING**",VSID_gW2y6w,VSID_KN22zN,viralstyle.com,0

@@ -1,0 +1,9 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_gb7oD1,"2016-07-17 13:18:04",VS201671701659543,1,30.94,SHIPPED,15,0,10.99,"Joseph Mirmina jr",jmirm48@aol.com,US,VSID_j3KVL0,25.99,"POW MIA",VSID_j66yoq,VSID_jGqoLN,viralstyle.com,0
+VSID_gaLoKY,"2016-07-17 18:57:33",VS201671701660544,1,30.94,SHIPPED,15,0,10.99,"Dennis Radke",dradke3993@aol.com,US,VSID_dv7q2B,25.99,"POW MIA",VSID_j66yoq,VSID_jGqoLN,viralstyle.com,0
+VSID_jMkeLL,"2016-07-19 01:54:37",VS201671901665275,1,28.94,SHIPPED,13,0,10.99,"douglas poldoski",poldoskid@yahoo.com,US,VSID_gL9MPK,23.99,"POW MIA",VSID_j66yoq,VSID_jGqoLN,viralstyle.com,0
+VSID_gb7vDq,"2016-07-20 14:59:55",VS201672001669187,1,28.94,SHIPPED,13,0,10.99,"Bob Fryman",cbmax21@aol.com,US,VSID_NYLEZ2,23.99,"POW MIA",VSID_j66yoq,VSID_jGqoLN,viralstyle.com,0
+VSID_jG38oL,"2016-07-20 20:36:34",VS201672001670025,2,57.43,SHIPPED,30,0,21.98,"Garnett Gray",knightsbridge29@yahoo.com,US,VSID_N16ylL,51.98,"POW MIA",VSID_j66yoq,VSID_jGqoLN,viralstyle.com,0
+VSID_gWRY4G,"2016-07-26 02:33:36",VS201672601688490,1,28.94,SHIPPED,13,0,10.99,"Dave Schultz",dats279@yahoo.com,US,VSID_j8vlYk,23.99,"POW MIA",VSID_Nl8ED2,VSID_jGqoLN,viralstyle.com,0
+VSID_N169mE,"2016-07-28 20:16:40",VS201672801697057,1,30.94,SHIPPED,15,0,10.99,"Paul Schlund",macdaddp2012@gmail.com,US,VSID_NzM12l,25.99,"POW MIA",VSID_Nl8ED2,VSID_jGqoLN,viralstyle.com,0
+VSID_dAyM2n,"2016-08-02 18:58:39",VS20168201713842,1,33.83,SHIPPED,16,0,10.99,"Elmer Rice",Erice60@comcast.net,US,VSID_NyMq60,26.99,"POW MIA",VSID_NPxn0J,VSID_jGqoLN,viralstyle.com,0

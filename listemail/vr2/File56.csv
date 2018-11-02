@@ -1,0 +1,5 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_dAxErn,"2016-07-20 10:58:14",VS201672001668742,2,46.09,SHIPPED,13.5,0,24.48,"Gary Moon",CHARRGERGRAY285@GMAIL.COM,US,VSID_Nxw2EE,37.98,"VIETNAM VETERANS MUG",VSID_NVEn8M,VSID_jGqoLN,viralstyle.com,0
+VSID_ga0545,"2016-08-26 14:43:27",VS201682601773588,2,43.43,SHIPPED,13.5,0,24.48,"Gaines Hutchinson",skitch1949@yahoo.com,US,VSID_dvwERz,37.98,"VIETNAM VETERANS MUG",VSID_dDEoMO,VSID_jGqoLN,viralstyle.com,0
+VSID_NQbWL4,"2016-10-08 22:26:14",VS201610801883041,1,23.94,SHIPPED,6.75,0,12.24,"Marshall McGinnis",marshallmcginnis@comcast.net,US,VSID_dR9Zwb,18.99,"VIETNAM VETERANS MUG",VSID_jeR94K,VSID_jGqoLN,viralstyle.com,0
+VSID_Nnbnqp,"2016-10-25 03:51:59",VS2016102501921552,2,47.09,SHIPPED,13.5,0,24.48,"MARK HERSHKOWITZ",mhersh1829@gmail.com,US,VSID_NVp03n,37.98,"VIETNAM VETERANS MUG",VSID_Nyxbl6,VSID_jGqoLN,viralstyle.com,0

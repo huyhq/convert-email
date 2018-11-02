@@ -1,0 +1,16 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_NPpWY1,"2016-07-19 12:30:17",VS201671901666218,1,32.94,SHIPPED,15.5,0,12.49,"john gabriel",gabriel.john43@yahoo.com,US,VSID_N06mRL,27.99,"AGENT ORANGE",VSID_Nl894r,VSID_jGqoLN,viralstyle.com,0
+VSID_g78xDw,"2016-07-20 22:11:10",VS201672001670238,1,30.94,SHIPPED,15,0,10.99,"C A HOLTZCLAW",tarheelcharley@yahoo.com,US,VSID_dRZL1a,25.99,"AGENT ORANGE",VSID_Nl894r,VSID_jGqoLN,viralstyle.com,0
+VSID_dKvMAp,"2016-07-21 22:48:51",VS201672101673264,2,59.43,CANCEL,32,0,21.98,"John Mitchell",shirtlake@comcast.net,US,VSID_dDRJ0R,53.98,"AGENT ORANGE",VSID_Nl894r,VSID_jGqoLN,viralstyle.com,0
+VSID_d43nR9,"2016-07-21 22:51:14",VS201672101673271,1,31.94,SHIPPED,16,0,10.99,"John Mitchell",shirtlake@comcast.net,US,VSID_dAxW0m,26.99,"AGENT ORANGE",VSID_Nl894r,VSID_jGqoLN,viralstyle.com,0
+VSID_dXPeq5,"2016-07-24 00:01:37",VS201672401680883,1,28.94,SHIPPED,13,0,10.99,"Daniel B Fuller",danbfuller@yahoo.com,US,VSID_N26qmk,23.99,"AGENT ORANGE",VSID_Nl894r,VSID_jGqoLN,viralstyle.com,0
+VSID_N0603o,"2016-07-24 16:27:58",VS201672401682878,1,30.94,SHIPPED,15,0,10.99,"Kathy Smrz",jskjrms@yahoo.com,US,VSID_j8v5n0,25.99,"AGENT ORANGE",VSID_Nl894r,VSID_jGqoLN,viralstyle.com,0
+VSID_d439zD,"2016-07-28 00:06:45",VS201672801694427,1,28.94,SHIPPED,13,0,10.99,"Winson Fong",wrfong@hotmail.com,US,VSID_dwMmO1,23.99,"AGENT ORANGE",VSID_gay6V4,VSID_jGqoLN,viralstyle.com,0
+VSID_dXP5q8,"2016-07-28 00:08:42",VS201672801694439,1,28.94,SHIPPED,13,0,10.99,"Winson Fong",wrfong@hotmail.com,US,VSID_dvMLeB,23.99,"AGENT ORANGE",VSID_gay6V4,VSID_jGqoLN,viralstyle.com,0
+VSID_d99GkP,"2016-07-29 09:41:40",VS201672901698994,1,31.94,SHIPPED,16,0,10.99,"arlen suazo",carlsuazo@yahoo.com,US,VSID_dAx468,26.99,"AGENT ORANGE",VSID_gay6V4,VSID_jGqoLN,viralstyle.com,0
+VSID_Nn0wz4,"2016-08-08 00:13:47",VS20168801728052,1,31.94,SHIPPED,16,0,10.99,"LeRoy D Randolph",sansom48@verizon.net,US,VSID_N26LnR,26.99,"AGENT ORANGE",VSID_dDED8a,VSID_jGqoLN,viralstyle.com,0
+VSID_NyDD9o,"2016-08-14 12:58:29",VS201681401743053,1,31.94,SHIPPED,16,0,10.99,"larry swartz",larryswartz1133@gmail.com,US,VSID_j8vrAx,26.99,"AGENT ORANGE",VSID_dDED8a,VSID_jGqoLN,viralstyle.com,0
+VSID_dvwroa,"2016-08-28 17:32:12",VS201682801779249,1,28.94,SHIPPED,13,0,10.99,"charles wilson",chuckwilson1945@gmail.com,US,VSID_Np0r0b,23.99,"AGENT ORANGE",VSID_Nnl2LZ,VSID_jGqoLN,viralstyle.com,0
+VSID_jMO0yG,"2016-08-29 19:31:48",VS201682901782175,1,28.94,SHIPPED,13,0,10.99,"William Johnson",wjohnson1948wj@gmail.com,US,VSID_dRlbOy,23.99,"AGENT ORANGE",VSID_Nnl2LZ,VSID_jGqoLN,viralstyle.com,0
+VSID_dr01O4,"2016-09-01 01:33:31",VS20169101788077,1,31.94,SHIPPED,16,0,10.99,"Scott Williams",Thebigdog48@hormail.com,US,VSID_d42eqE,26.99,"AGENT ORANGE",VSID_Nnl2LZ,VSID_jGqoLN,viralstyle.com,0
+VSID_dryamo,"2016-11-07 15:45:08",VS201611701953577,1,32.94,SHIPPED,15.5,0,12.49,"kathryn Kempter",jkrepair@abe.midco.net,US,VSID_j6E38v,27.99,"AGENT ORANGE",VSID_jEYYbz,VSID_jGqoLN,viralstyle.com,0

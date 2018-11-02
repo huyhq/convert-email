@@ -1,0 +1,11 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jEmBPK,"2016-06-30 23:34:56",VS201663001603859,1,20.99,SHIPPED,13.36,1,7.63,"randy nelson",randy64716@yahoo.com,US,VSID_dKz8Jb,20.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_gWzJYJ,"2016-07-02 12:44:15",VS20167201608502,1,28.94,SHIPPED,13.36,0,10.63,"Charles Bruce",cbruce@ckfraud.org,US,VSID_g7bkVQ,23.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_NlLeJw,"2016-07-02 18:49:08",VS20167201609522,1,28.94,SHIPPED,13.36,0,10.63,"Bill Rogers",golfer642@yahoo.com,US,VSID_gakE3q,23.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_dRzX1k,"2016-07-03 05:17:02",VS20167301611217,1,31.94,SHIPPED,16.36,0,10.63,"Deotis McNeil jr",sianimcneil@icloud.com,US,VSID_gmqq60,26.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_NYrbna,"2016-07-03 17:10:53",VS20167301612329,1,31.94,SHIPPED,16.36,0,10.63,"EARL WARD",EARL319WAR@aol.com,US,VSID_dRzZ4b,26.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_NyLk2k,"2016-07-04 00:45:17",VS20167401613697,1,28.94,SHIPPED,13.36,0,10.63,"Frederick R Moses",kpjcrm5@aol.com,US,VSID_NVV2zZ,23.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_j6mlv1,"2016-07-05 00:53:41",VS20167501616674,1,28.94,SHIPPED,13.36,0,10.63,"russell mckithan",russell.mckithan@gmail.com,US,VSID_N2m2ob,23.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_jGm147,"2016-07-05 13:43:46",VS20167501617825,3,77.92,SHIPPED,40.08,0,31.89,"JOSE CRUZ",kosecruz@gmail.com,US,VSID_NQzvew,71.97,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_NkLZmY,"2016-07-06 21:19:47",VS20167601622207,1,28.94,SHIPPED,13.36,0,10.63,"larry wiegand",larryw1944@mail.com,US,VSID_drqQ1e,23.99,"VIETNAM VETERANS FALLEN 1",VSID_NkGKXG,VSID_jGqoLN,viralstyle.com,0
+VSID_NyM8VE,"2016-07-10 18:15:02",VS201671001635709,1,28.94,SHIPPED,13,0,10.99,"Robert Silva",robert.g.silva@comcast.net,US,VSID_dAJ0Qm,23.99,"VIETNAM VETERANS FALLEN 1",VSID_d9EovP,VSID_jGqoLN,viralstyle.com,0

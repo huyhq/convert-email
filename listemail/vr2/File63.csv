@@ -1,0 +1,3 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_dDMKal,"2016-04-25 20:31:27",VS201642501393035,3,83.92,SHIPPED,48,0,29.97,"Jeremy Reuter ",jerm4440@gmail.com,US,VSID_gBM5wo,77.97,"FARMER_LIMITED EDITION_T-SHIRTS",VSID_gLZ0B3,VSID_jGqoLN,viralstyle.com,0
+VSID_gma79B,"2016-04-26 22:31:51",VS201642601396168,2,51.43,SHIPPED,26,0,19.98,"Jason Lacoss-Arnold",alchemst@gmail.com,US,VSID_d4eAoE,45.98,"FARMER_LIMITED EDITION_T-SHIRTS",VSID_gLZ0B3,VSID_jGqoLN,viralstyle.com,0

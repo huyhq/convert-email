@@ -1,0 +1,4 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jGMXLY,"2015-11-13 01:28:26",VS2015111300846269,1,51.94,SHIPPED,22,0,21.99,"Peter Pasillas ",peterjoe213@aol.com,US,VSID_dD6lJk,43.99,"***SPECIAL EDITION ***",VSID_N2MvbK,VSID_KN22zN,viralstyle.com,0
+VSID_j63bZ1,"2015-11-13 02:57:07",VS2015111300846630,3,81.92,SHIPPED,41.25,0,34.72,"Anne Hill",anne.hill72@gmail.com,US,VSID_jMJMPG,75.97,"***SPECIAL EDITION ***",VSID_N2MvbK,VSID_KN22zN,viralstyle.com,0
+VSID_j63Xl4,"2015-11-14 00:15:53",VS2015111400849874,1,51.94,SHIPPED,22,0,21.99,"Nancy Gugluelmo",nancygug@roadrunner.com,US,VSID_gaQxV0,43.99,"***SPECIAL EDITION ***",VSID_N2MvbK,VSID_KN22zN,viralstyle.com,0

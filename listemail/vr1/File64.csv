@@ -1,0 +1,11 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_j3OkX3,"2016-12-30 03:49:19",VS2016123002100189,1,31.94,SHIPPED,12.5,0,14.49,"Cecil Kincaid Jr",cecilcpa@gmail.com,US,VSID_j5n3mn,26.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_dR8pZ9,"2016-12-30 17:33:12",VS2016123002101417,1,34.98,SHIPPED,12.8,0,14.19,"Shannon Carlson",scarlson@singerlewak.com,US,VSID_gbkyQO,26.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_doypyW,"2016-12-30 18:51:53",VS2016123002101632,1,31.94,SHIPPED,12.5,0,14.49,"debbie miller",debbster19@gmail.com,US,VSID_gbkLqA,26.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_j5eQlK,"2016-12-31 01:53:17",VS2016123102102803,1,34.98,SHIPPED,12.5,0,14.49,"Ramsey Korban",Random.01n@gmail.com,US,VSID_drQAxe,26.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_gWypWw,"2017-01-01 03:50:15",VS20171102106346,1,31.94,SHIPPED,12.8,0,14.19,"Esmeralda Sosa",esmy12001@yahoo.com,US,VSID_j39nr3,26.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_dwRw0D,"2017-01-02 04:52:57",VS20171202110040,2,60.97,SHIPPED,21.6,0,28.38,"Edson Eduardo Jaimes Morales",jaimored_2995@hotmail.com,MX,VSID_jE3Zzz,49.98,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_j5eGQK,"2017-01-02 18:59:53",VS20171202111603,1,33.94,SHIPPED,14.5,0,14.49,"Deanna Alvarez",deanna70@netzero.com,US,VSID_NQ1m7Y,28.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_N1qOJM,"2017-01-02 20:36:41",VS20171202111913,1,29.94,SHIPPED,10.8,0,14.19,"Nicole Glass",nikkiglass5@gmail.com,US,VSID_gbkmqO,24.99,"**** LIMITED EDITION ****",VSID_d9nlGY,VSID_KN22zN,viralstyle.com,0
+VSID_jO3OA8,"2017-01-03 16:59:31",VS20171302114665,1,28.94,SHIPPED,9.75,0,14.24,"Barbara Redwine",barbjredwine@yahoo.com,US,VSID_dXpmzB,23.99,"**** LIMITED EDITION ****",VSID_j34mV5,VSID_KN22zN,viralstyle.com,0
+VSID_gBZxaE,"2017-01-04 00:38:21",VS20171402116111,1,41.94,SHIPPED,14.95,0,20.04,"Mary Bell, Ed.D.",NubianStrength@aol.com,US,VSID_NkvZXJ,34.99,"**** LIMITED EDITION ****",VSID_j34mV5,VSID_KN22zN,viralstyle.com,0

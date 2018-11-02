@@ -1,0 +1,4 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_gB293M,"2017-01-20 09:35:50",VS201712002154255,1,37.98,SHIPPED,12,0,17.99,"Sophie Fennell",fennellsophie_28@yahoo.co.uk,GB,VSID_NZZLGK,29.99,"*** Limited Edition ***",VSID_g7zvp2,VSID_NVk0nX,viralstyle.com,0
+VSID_NlzblZ,"2017-01-20 19:42:47",VS201712002155022,1,30.94,SHIPPED,11.75,0,14.24,"Tanya Livingston",Yaya.livingston@gmail.com,US,VSID_dDxZJa,25.99,"*** Limited Edition ***",VSID_g7zvp2,VSID_NVk0nX,viralstyle.com,0
+VSID_doweXr,"2017-01-21 19:25:49",VS201712102157232,1,32.98,SHIPPED,10.8,0,14.19,"Marie Timms",marietmms534@gmail.com,GB,VSID_NxPWnm,24.99,"*** Limited Edition ***",VSID_g7zvp2,VSID_NVk0nX,viralstyle.com,0

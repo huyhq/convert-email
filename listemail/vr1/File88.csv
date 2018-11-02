@@ -1,0 +1,7 @@
+id,created_at,order_num,item_count,sale_net_price,status,base_price,is_upsell,profit,customer_name,customer_email,customer_country,customer_id,subtotal,campaign_name,campaign_id,campaign_owner_id,domain,applied_discount
+VSID_jGmb7M,"2016-07-01 03:01:48",VS20167101604469,1,28.94,SHIPPED,13,0,10.99,"Race Ganster",gansterrace@yahoo.com,US,VSID_do4YY0,23.99,"**Special Edition **",VSID_j3MJLR,VSID_KN22zN,viralstyle.com,0
+VSID_dDzlYk,"2016-07-02 16:16:38",VS20167201609079,1,31.94,SHIPPED,16,0,10.99,"Casandra Stanley",casanne@icloud.com,US,VSID_d4V8WM,26.99,"**Special Edition **",VSID_j3MJLR,VSID_KN22zN,viralstyle.com,0
+VSID_dwrVaO,"2016-07-03 14:52:23",VS20167301611940,1,28.94,SHIPPED,13,0,10.99,"Laura Wright",lawright1019@yahoo.com,US,VSID_gBmm5L,23.99,"**Special Edition **",VSID_j3MJLR,VSID_KN22zN,viralstyle.com,0
+VSID_gbnmoq,"2016-07-05 08:49:16",VS20167501617487,1,28.94,SHIPPED,13,0,10.99,"Michael Tucker",mwtucker27@yahoo.com,US,VSID_Nzq8Ol,23.99,"**Special Edition **",VSID_j3MJLR,VSID_KN22zN,viralstyle.com,0
+VSID_d996x0,"2016-07-06 04:05:58",VS20167601620294,1,28.94,SHIPPED,13,0,10.99,"Tanner Matlock",levy_c4893@hotmail.com,US,VSID_N0L5Y4,23.99,"**Special Edition **",VSID_j3MKoy,VSID_KN22zN,viralstyle.com,0
+VSID_j5WLOV,"2016-07-06 04:10:18",VS20167601620303,1,28.94,SHIPPED,13,0,10.99,"Christopher Levy",levy_c4893@hotmail.com,US,VSID_NQz1EX,23.99,"**Special Edition **",VSID_j3MKoy,VSID_KN22zN,viralstyle.com,0
