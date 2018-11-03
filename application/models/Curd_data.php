@@ -106,6 +106,13 @@
 			$query = $this->db->insert_batch('email_list', $data);
 		}
 
+		public function get_email ($from_number, $end_number) 
+		{
+			$this->db->limit($end_number, $from_number);
+			$query = $this->db->get('email_list');
+			return $query->result();
+		}
+
 		private function show_debug($result) {
 			echo '<pre>';
 			print_r($result);
